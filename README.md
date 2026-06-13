@@ -1,1 +1,3 @@
-# MYCAMPUS-COLLEGE-PORTAL-APP
+# college_portal
+
+A new Flutter project.
